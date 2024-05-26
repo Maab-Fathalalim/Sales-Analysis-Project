@@ -12,10 +12,15 @@ Power Bi
 
  
 ## Data Analysis
-EDA
+
+EDA 
+
 Power Query
+
 Data Cleaning
+
 Data Modeling
+
 DAX
 
 ## Results 
